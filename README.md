@@ -1,27 +1,20 @@
 # Group 2 Project: Askhole
 
   ## Description
-    Filler text
+    A website similar in design to Stack Overflow. 
 
   ## Table of Contents
-  * [Installation](#Installation)
   * [Usage](#Usage)
+  * [Sample Image](#Image)
   * [Contributors](#Contribution)
-  * [Testing](#Testing)
   * [Licenses](#Licenses)
   * [Questions](#Questions)
 
-  ## Installation
-    Filler text
-
   ## Usage
-    Filler text
+    A user can create and login to an account, which will allow them to create posts. These posts can then be edited or deleted as desired, as well as commented on.
 
   ## Contributors
     Shivam Shewa, Siarra Guillory, and Stephen Keenan
-
-  ## Testing
-    Filler text
 
   ## Licenses
     MIT
